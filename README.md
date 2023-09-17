@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m bunnyhopper363/Sam </h1>
+<h1> 👋 Hi, I’m bunnyhopper363/Sam </h1>
 - 👀 I am interested in new technologies and everything related to IT and development/programming <br>
 - 🌱 I am currently learning to become a web developer, I would then like to learn about the system and network <br>
 - 💞️ I am looking to collaborate on Github with anyone who wants, to improve my knowledge, I like to follow open source projects <br>
