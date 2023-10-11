@@ -5,7 +5,7 @@
 - 🌱 I am currently learning to become a web developer, I would then like to learn about the system and network <br>
 - 💞️ I am looking to collaborate on Github with anyone who wants, to improve my knowledge, I like to follow open source projects <br>
 
- <h3>📫 Contact:</h3>
+ <h3>📫 Contact, you can click on it:</h3>
  <a href="https://github.com/bunnyhopper363"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/samuel-d%C3%A9nomm%C3%A9-7b9943280/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <h3>Technology I know and use:</h3>
