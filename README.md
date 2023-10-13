@@ -27,7 +27,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img></a>
 <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></img></a>
 <a href="#"><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></img></a>
-
+<a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img></a>
 
 <!---
 bunnyhopper363/bunnyhopper363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
