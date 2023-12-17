@@ -1,6 +1,6 @@
 # Hello world ! 👋
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bunnyhopper363?cardType=github&theme=dracula&preferLogin=true&Border=F66D95&Background=1B0031&Ring=F66D95)](https://git.io/awesome-stats-card) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bunnyhopper363)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bunnyhopper363&theme=blue-green)
 - 👀 I am interested in new technologies and everything related to IT and development/programming <br>
 - 🌱 I am currently learning to become a web developer, I would then like to learn about the system and network <br>
 - 💞️ I am looking to collaborate on Github with anyone who wants, to improve my knowledge, I like to follow open source projects <br>
